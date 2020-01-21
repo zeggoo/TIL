@@ -11,3 +11,6 @@
 
 ## Jupyter notebook
 - [자주 쓰는 단축키](https://github.com/zeggoo/TIL/blob/master/Jupyter%20notebook/Jupyter_notebook_shortcuts.md)
+
+## Git
+- [.gitignore 간단 설정](https://github.com/zeggoo/TIL/blob/master/git/gitignore.md)

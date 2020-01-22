@@ -1,7 +1,7 @@
 # python에서 json 파싱하는 방법
 
-참고1: <https://ithub.tistory.com/214>
-참고2: <http://parkjuwan.dothome.co.kr/wordpress/2017/03/23/json-parsing-py/>
+참고1: https://ithub.tistory.com/214
+참고2: http://parkjuwan.dothome.co.kr/wordpress/2017/03/23/json-parsing-py/
 
 ## dict -> json
 

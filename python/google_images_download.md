@@ -22,7 +22,7 @@ paths = response.download(arguments)
 print(paths)
 ```
 
-### 자주 쓰는 arguments
+## 자주 쓰는 arguments
 
 [arguments 설정](https://google-images-download.readthedocs.io/en/latest/arguments.html)
 

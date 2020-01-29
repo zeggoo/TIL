@@ -23,4 +23,4 @@
 
 - [json 파싱](https://github.com/zeggoo/TIL/blob/master/python/json_parser.md)
 - [matplotlib 한글폰트](https://github.com/zeggoo/TIL/blob/master/python/matplotlib_font.md)
-- [googleimagesdownload 구글 이미지 검색](https://github.com/zeggoo/TIL/python/google_images_download.md)
+- [googleimagesdownload 구글 이미지 검색](https://github.com/zeggoo/TIL/blob/master/python/google_images_download.md)

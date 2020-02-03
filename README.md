@@ -26,4 +26,4 @@
 - [googleimagesdownload 구글 이미지 검색](https://github.com/zeggoo/TIL/blob/master/python/google_images_download.md)
 
 ## apps script
-- [구글시트에서 jdbc연결을 통한 테이블 읽어오기](https://github.com/zeggoo/TIL/blob/master/apps script/apps_sciprt_jdbc.md)
+- [구글시트에서 jdbc연결을 통한 테이블 읽어오기](https://github.com/zeggoo/TIL/blob/master/apps%20script/apps_sciprt_jdbc.md)

@@ -31,4 +31,4 @@
 
 ## workout
 
-- [Phraks Greyskull LP 루틴 - 초심자 스트렝스](https://github.com/zeggoo/TIL/blob/master/workout/# Phraks Greyskill LP Variant.md)
+- [Phraks Greyskull LP 루틴 - 초심자 스트렝스](https://github.com/zeggoo/TIL/blob/master/workout/%23%20Phraks%20Greyskill%20LP%20Variant.md)

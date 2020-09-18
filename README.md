@@ -18,6 +18,7 @@
 ## Git
 
 - [.gitignore 간단 설정](https://github.com/zeggoo/TIL/blob/master/git/gitignore.md)
+- [commit 메시지 수정](https://github.com/zeggoo/TIL/blob/master/git/relog_commit_message.md)
 
 ## python
 
